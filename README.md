@@ -13,6 +13,8 @@
 - Aula 093 - Estava com problemas no Bootstrap 4.6.0, criei o projeto novamente com create-react-app, fiz ajustes nos comandos do bootstrap, webpack e index.html e consegui executar o app normalmente.
 
 - Aula 094 - Mais ajustes conforme dicas das aulas, novos comandos para rotas.
+- Aulas 095 a 101, tudo andou bem.
+- Da aula 102 até 108, não consegui fazer funcionar as chamadas onClick, mesmo após algumas pesquisas, resolvi seguir e depois analisar.
 
 - Um ótimo Curso a todos.
 - Parabéns a Udemy e a Cod3r.

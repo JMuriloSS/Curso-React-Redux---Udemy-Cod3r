@@ -3,8 +3,7 @@ const path = require("path");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = {
-	context: __dirname,
-	entry: "./src/index.jsx",
+	entry: { index: path.resolve(__dirname, "src", "index.jsx") },
 	output: {
 		filename: "./app.js",
 		path: path.resolve(__dirname, "/public"),
@@ -25,9 +24,7 @@ module.exports = {
 			filename: "[name].css",
 		}),
 		new htmlWebpackPlugin({
-			filename: "index.html",
-			template: "./public/index.html",
-			minify: false,
+			template: path.resolve(__dirname, "public", "index.html")
 		}),
 	],
 	devServer: {
@@ -40,12 +37,7 @@ module.exports = {
 			{
 				test: /\.jsx?$/,
 				exclude: /node_modules/,
-				use: {
-					loader: "babel-loader",
-					options: {
-						presets: ["@babel/preset-env", "@babel/preset-react"],
-					},
-				},
+				use: ["babel-loader"]
 			},
 			{
 				test: /\.(s?css)$/,
