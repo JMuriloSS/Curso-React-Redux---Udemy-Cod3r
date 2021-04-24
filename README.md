@@ -1,21 +1,22 @@
 # Curso-React-Redux---Udemy-Cod3r
 
-## Seção 007 - TodoApp(Frontend)
+## Seção 07 - TodoApp(Frontend)
 
-- Procurei usar os plugins mais recentes, ao menos até abril/2021, época em que retomei o Curso e fazendo este módulo. Fui pesquisando como solucionar os problemas que ia encontrando, troquei plugins depreciados, usei novas versões e inseri novos comandos conforme pesquisas.
-- Até a aula 092, consegui fazer funcionar com o webpack e demais recursos, veja as versões deles em package.json, confesso que apanhei um bocado, e havia travado neste ponto em novembro/2020, quando decidi interromper o curso e ter mais base de Javascript e outros frameworks, fiz mais alguns cursos nesse intervá-lo.
-- Com um pouco mais de conhecimento e experiência, foi muito bom avançar um pouco mais, fazer o que se gosta, é ótimo.
+- Procurei usar as dependências mais recentes, ao menos até abril/2021, época em que retomei o Curso e fazendo este módulo. Fui pesquisando como solucionar os problemas que ia encontrando, troquei recursos depreciados e usei novos comandos conforme pesquisas.
+- Até a aula 92, consegui fazer funcionar com o webpack e demais recursos, veja as versões deles em package.json, confesso que apanhei um bocado, e havia travado neste ponto em novembro/2020, quando decidi conhecer mais a fundo o Javascript e como funcionam outros frameworks/bibliotecas, fiz mais alguns cursos nesse intervalo.
 
-- Bom, fica a dica para quem está fazendo o Curso, usando o ambiente Linux/Debian 10, é claro que encontrarei novos problemas, arriscando a trabalhar com recursos mais atualizados, caso não consiga, tentarei o indicado, mas as vezes, mesmos esses, dão conflito com outros que já estamos uando. 
+- Bom, estou usando o ambiente Linux/Debian 10, é claro que encontrarei novos problemas, arriscando a trabalhar com recursos mais atualizados, caso não consiga, tentarei o indicado, mas as vezes, mesmos esses, dão conflito com outros que já estamos usando, algumas aulas já tem uns 4 anos. 
 
-- Vou tentar usar muito mais coisas em DEV, mas nem todo curso te orienta a fazer isso, e em alguns casos é melhor ficar para ambos os ambientes.
+- Vou tentar usar os recursos em ambiente DEV, mas nem todo curso te orienta a fazer isso, e em alguns casos é melhor ficar usar em ambos ambientes.
 
-- Aula 093 - Estava com problemas no Bootstrap 4.6.0, criei o projeto novamente com create-react-app, fiz ajustes nos comandos do bootstrap, webpack e index.html e consegui executar o app normalmente.
+- Aula 93 - Estava com problemas no Bootstrap 4.6.0, criei o projeto novamente com create-react-app, fiz ajustes nos comandos do bootstrap, webpack e index.html e consegui executar o app normalmente.
 
-- Aula 094 - Mais ajustes conforme dicas das aulas, novos comandos para rotas.
-- Aulas 095 a 101, tudo andou bem.
+- Aula 94 - Mais ajustes conforme dicas das aulas, novos comandos para rotas.
+- Aulas 95 a 101, tudo andou bem.
 - Da aula 102 até 108, não consegui fazer funcionar as chamadas onClick, mesmo após algumas pesquisas, resolvi seguir e depois analisar.
 
-- Um ótimo Curso a todos.
-- Parabéns a Udemy e a Cod3r.
+ 
+- Um ótimo curso a todos e parabéns a Udemy e Cod3r.
+
+Att.: Murilo
 
